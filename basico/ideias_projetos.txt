@@ -1,0 +1,7 @@
+Projetos básico
+
+* Baixar no link do NCBI um genoma bacteriano alvo, usar Python para abrir o arquivo, buscar um gene alvo no arquivo de anotação, exibir a sequência protéica.
+
+* Baixar uma pasta com sequências de aminoácidos, Compilar em um único arquivo (multi-fasta), mostrar duplicatas e excluir
+
+* Construir um algoritmo que converta uma sequência de DNA em sua contraparte reversa, complemento ou complemento reverso.

@@ -1,11 +1,11 @@
 # Genome_analysis
 
-Projeto criado para comunidade Pyladies Bioinformática para aprimoramento do conhecimento sobre Bioinformática para integrantes de nível básico.
+Projeto criado para comunidade Pyladies Bioinformática para aprimoramento do conhecimento sobre Bioinformática para integrantes de nível .
 
 
 ## Objetivo
 
-O objetivo deste projeto é criar um pipeline acessível para usuários com conhecimentos básicos em bioinformática que permita baixar, processar e comparar genomas bacterianos para identificar genes de resistência a antibióticos.
+O objetivo deste projeto é criar um pipeline acessível para usuários com conhecimentos  em bioinformática que permita baixar, processar e comparar genomas bacterianos para identificar genes de resistência a antibióticos.
 
 ### Ferramentas
 
